@@ -5,9 +5,8 @@
 ---
 ## Projets Principaux
 
-### 🚀 [Nom du Projet 1](lien-vers-le-repo)
+### [Astéroids](lien-vers-sle-repo)
 ![Badge État](https://img.shields.io/badge/état-complet-success) 
-![Badge Licence](https://img.shields.io/badge/licence-MIT-blue)
 
 **Description:** Une brève description de ce que fait le projet et son objectif.
 
