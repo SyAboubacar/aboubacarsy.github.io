@@ -1,58 +1,50 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon profil GitHub !
 
-## Profil
+### Présentation
+#### Aboubacar SY
+
+Etudiant en master ...
+
 
 ---
 ## Projets Principaux
 
-### [Astéroids](lien-vers-sle-repo)
-![Badge État](https://img.shields.io/badge/état-complet-success) 
+### - Astéroids
 
-**Description:** Une brève description de ce que fait le projet et son objectif.
+
+**Description:** L’objectif de ce mini-projet est la création d'une application pour jouer au jeu [**Asteroids**](https://fr.wikipedia.org/wiki/Asteroids). L’application sera développer en **Rust** et utilisera la bibliothèque [**Macroquad**](https://macroquad.rs/) pour gérer les aspects graphiques du programme.
 
 **Fonctionnalités clés:**
-- Fonctionnalité 1
-- Fonctionnalité 2
-- Fonctionnalité 3
-
-**Technologies utilisées:**  
-![Tech1](https://img.shields.io/badge/-Tech1-COLOR?style=flat&logo=LOGO)
-![Tech2](https://img.shields.io/badge/-Tech2-COLOR?style=flat&logo=LOGO)
-
-**Démo:** [Lien vers la démo] | [Documentation](lien-vers-la-doc)
-
----
-
-### 🎨 [Nom du Projet 2](lien-vers-le-repo)
-![Badge État](https://img.shields.io/badge/état-en%20développement-orange)
-
-**Description:** Description concise du projet.
-
-**Points forts:**
-- Aspect innovant 1
-- Aspect innovant 2
+- Déplacement du vaisseau avec inertie
+- Destruction des astéroïdes avec des missiles
+- Gestion de la mémoire
 
 **Stack technique:**  
-Liste des technologies principales
+ Rust
 
 **Captures d'écran:**  
 ![Preview](lien-vers-image)
 
 ---
 
-## 🏆 Autres Projets
+### - Othelllo
 
-### 🔍 [Projet Secondaire 1](lien)
-- Brève description
-- Technologies: Liste
+**Description:** L’objectif de ce projet est la création d'une IA capable de jouer au jeu [Othello](https://fr.wikipedia.org/wiki/Othello_(jeu)). En utilisant l'algorithme [minimax](https://fr.wikipedia.org/wiki/Algorithme_minimax) et son optimisation l'[élagage αβ](https://fr.wikipedia.org/wiki/%C3%89lagage_alpha-b%C3%AAta) on a été en mesure réalisé un adversaire intelligent. L'ensemble du jeu et de l'IA on été codé en python. 
 
-### 🛠 [Projet Secondaire 2](lien)
-- Brève description
-- Technologies: Liste
+**Points forts:**
+- Exploration de l'arbre de jeu est considérablement allégé avec l'élagage alpha-beta. 
+- La fonction évaluation du jeu pour un joueur est basé sur plusieurs facteurs : la différence de pion,la mobilité du joueur et le poids du joueur.
+
+**Stack technique:**  
+Python
+
+**Captures d'écran:**  
+![Preview](lien-vers-image)
+
+---
 
 ## 📫 Contact
 
 Pour toute collaboration ou question, n'hésitez pas à me contacter:
-- Email: votremail@example.com
+- Email: aboubacar01.sy@gmail.com
 - LinkedIn: [Votre Nom](lien-linkedin)
-- Twitter: [@votrehandle](lien-twitter)
