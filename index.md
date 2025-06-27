@@ -12,7 +12,7 @@ Etudiant en master ...
 ### - Astéroids
 
 
-**Description:** L’objectif de ce mini-projet est la création d'une application pour jouer au jeu [**Asteroids**](https://fr.wikipedia.org/wiki/Asteroids). L’application sera développer en **Rust** et utilisera la bibliothèque [**Macroquad**](https://macroquad.rs/) pour gérer les aspects graphiques du programme.
+**Description:** L’objectif de ce mini-projet est la création d'une application pour jouer au jeu [**Asteroids**](https://fr.wikipedia.org/wiki/Asteroids). L’application a été développé en **Rust** et utilise la bibliothèque [**Macroquad**](https://macroquad.rs/) pour gérer les aspects graphiques du programme.
 
 **Fonctionnalités clés:**
 - Déplacement du vaisseau avec inertie
