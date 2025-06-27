@@ -1,8 +1,9 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-**Sy Aboubacar**  
+## Profil
 
-## 🌟 Projets Principaux
+---
+## Projets Principaux
 
 ### 🚀 [Nom du Projet 1](lien-vers-le-repo)
 ![Badge État](https://img.shields.io/badge/état-complet-success) 
@@ -49,12 +50,6 @@ Liste des technologies principales
 ### 🛠 [Projet Secondaire 2](lien)
 - Brève description
 - Technologies: Liste
-
-## 📈 Statistiques GitHub
-
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=votreusername&show_icons=true&theme=radical)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreusername&layout=compact&theme=radical)
 
 ## 📫 Contact
 
